@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731222295583",
+    "project_id": "priyamvada-test",
+    "storage_bucket": "priyamvada-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731222295583:android:77f5bd11785520b056412a",
+        "android_client_info": {
+          "package_name": "com.example.priyamvada_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91r_tvujnjkkBxweJzdQ-R8ldr6TFyIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
